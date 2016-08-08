@@ -1,0 +1,19 @@
+{
+  "name": "webpack-use-less",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry.js",
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lengziyu",
+  "license": "ISC"
+}
