@@ -13,7 +13,6 @@
 - [Webpack傻瓜式指南（二）](https://zhuanlan.zhihu.com/p/20397902)
 
 ### 进阶教程：
-- [webpack使用优化](http://web.jobbole.com/84847/)
 - [如何开发一个 Webpack Loader ( 一 )](http://www.alloyteam.com/2016/01/webpack-loader-1/)
 - [【译】基于 Webpack 和 ES6 打造 JavaScript 类库](https://github.com/cssmagic/blog/issues/56)
 - [webpack常用配置总结](http://www.h-simon.com/42/)
@@ -49,6 +48,16 @@
 - [angular2-webpack](https://github.com/preboot/angular2-webpack)
 - [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)
 - [es6+angular1.X+webpack 实现按路由功能打包项目](https://segmentfault.com/a/1190000004358725)
-- [译】通过 Webpack 实现 AngularJS 的延迟加载](https://segmentfault.com/a/1190000004514747)
-- [Webpack + Angular的组件化实践](https://segmentfault.com/a/1190000003915443
+- [【译】通过 Webpack 实现 AngularJS 的延迟加载](https://segmentfault.com/a/1190000004514747)
+- [Webpack + Angular的组件化实践](https://segmentfault.com/a/1190000003915443)
 
+### gulp-webpack
+
+### webpack性能优化
+- [webpack使用优化](http://web.jobbole.com/84847/)
+- [彻底解决Webpack打包性能问题](https://zhuanlan.zhihu.com/p/21748318?refer=starkwang)
+
+### webpack2.0
+- [【译】 Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58)
+- [如何评价 Webpack 2 新引入的 Tree-shaking 代码优化技术？](https://www.zhihu.com/question/41922432)
+- [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.hqv8bdir5)
