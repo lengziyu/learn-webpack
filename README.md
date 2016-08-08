@@ -64,3 +64,8 @@
 - [【译】 Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58)
 - [如何评价 Webpack 2 新引入的 Tree-shaking 代码优化技术？](https://www.zhihu.com/question/41922432)
 - [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.hqv8bdir5)
+
+
+### 我的学习笔记教程[入门篇]
+- [webpack基本使用配置[入门篇]](https://github.com/lengziyu/learn-webpack/issues/1)
+- [webpack Loader的使用教程及常用的loader[入门篇]](https://github.com/lengziyu/learn-webpack/issues/2)
