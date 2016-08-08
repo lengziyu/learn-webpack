@@ -34,3 +34,11 @@
 - [使用 Vuex + Vue.js 构建单页应用 ](https://segmentfault.com/a/1190000005891026)
 - [vue-vueRouter-webpack](https://github.com/vingojw/vue-vueRouter-webpack)
 - [Vue.js 和 Webpack](http://div.io/topic/1343?page=1#5517)
+
+### React & webpack
+- [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)
+- [webpack-seed](https://github.com/chemdemo/webpack-seed)
+- [Webpack+React+ES6开发模式入门指南](http://www.cnblogs.com/skylar/p/React-Webpack-ES6.html)
+- [使用 React 和 Webpack 构建静态网站](http://www.oschina.net/translate/react-static-site)
+- [手把手教你基于ES6架构自己的React Boilerplate项目](https://segmentfault.com/a/1190000005037309)
+- [budgeting-sample-app-webpack2](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2)
