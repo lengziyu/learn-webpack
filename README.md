@@ -42,3 +42,13 @@
 - [使用 React 和 Webpack 构建静态网站](http://www.oschina.net/translate/react-static-site)
 - [手把手教你基于ES6架构自己的React Boilerplate项目](https://segmentfault.com/a/1190000005037309)
 - [budgeting-sample-app-webpack2](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2)
+
+### Angular & webpack
+- [angular-webpack-cookbook](http://dmachat.github.io/angular-webpack-cookbook/)
+- [angular-webpack](https://github.com/preboot/angular-webpack)
+- [angular2-webpack](https://github.com/preboot/angular2-webpack)
+- [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)
+- [es6+angular1.X+webpack 实现按路由功能打包项目](https://segmentfault.com/a/1190000004358725)
+- [译】通过 Webpack 实现 AngularJS 的延迟加载](https://segmentfault.com/a/1190000004514747)
+- [Webpack + Angular的组件化实践](https://segmentfault.com/a/1190000003915443
+
