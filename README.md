@@ -51,7 +51,10 @@
 - [【译】通过 Webpack 实现 AngularJS 的延迟加载](https://segmentfault.com/a/1190000004514747)
 - [Webpack + Angular的组件化实践](https://segmentfault.com/a/1190000003915443)
 
-### gulp-webpack
+### gulp & webpack
+- [gulp和webpack初探](https://segmentfault.com/a/1190000005855715)
+- [基于webpack+gulp搭建纯静态页面型前端工程模板](https://segmentfault.com/a/1190000003109948)
+- [精益 React 学习指南 （Lean React）- 2.4 webpack + gulp 构建完整前端工作流](https://segmentfault.com/a/1190000005657651)
 
 ### webpack性能优化
 - [webpack使用优化](http://web.jobbole.com/84847/)
