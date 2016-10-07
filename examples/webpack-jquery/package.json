@@ -1,0 +1,16 @@
+{
+  "name": "webpack-jquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry.js",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "webpack": "^1.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
