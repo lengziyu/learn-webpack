@@ -69,3 +69,8 @@
 ### 我的学习笔记教程[入门篇]
 - [webpack基本使用配置[入门篇]](https://github.com/lengziyu/learn-webpack/issues/1)
 - [webpack Loader的使用教程及常用的loader[入门篇]](https://github.com/lengziyu/learn-webpack/issues/2)
+
+
+### 其他
+- [react 学习资源集合及学习笔记](https://github.com/lengziyu/learn-react)
+- [2016常见前端面试题](https://github.com/lengziyu/2016FE-Interview)
