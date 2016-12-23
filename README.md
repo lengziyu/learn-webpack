@@ -4,7 +4,7 @@
 * 中文文档：http://webpackdoc.com/
 * demo集合：https://github.com/ruanyf/webpack-demos
 
-### :fire: :blush: webpack最新推荐 :blush: :fire: 
+### :fire: :blush: webpack最新推荐 :fire: 
 - [使用webpack的提示和技巧【译】](./webpack-trick.md)
 
 ### 初级教程：
