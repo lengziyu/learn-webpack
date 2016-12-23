@@ -1,8 +1,8 @@
-# 使用webpack的提示和技巧【译】。
-这个是作者所学到的一个关于Webpack使用的技巧。
+# 使用webpack的提示和技巧【译】
+这个是“我”所学到的一个关于Webpack使用的技巧。
 
-所有的这些技巧关于Webpack 1版本的的，与Webpack 2版本有不同的API，所以其中的一些技巧不会在那里运行。
-一个关于迁移到v2的详细指南[can be found here.](http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/)
+所有的这些技巧关于Webpack 1版本的，与Webpack 2版本有不同的API，所以其中的一些技巧不可以运行。
+关于迁移到v2的详细指南[can be found here.](http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/)
 
 ## 目录
 - [显示进度条](#显示进度条)
@@ -189,7 +189,7 @@ requireAll(require.context('./behaviors/', true, /\.js$/))
 ```
 参考：[require.context](http://webpack.github.io/docs/context.html#require-context)
 
-## 译
+## 【译】
 本文翻译来源来自：[webpack-tricks](https://github.com/rstacruz/webpack-tricks)。
 
 如翻译有误，欢迎PR。
