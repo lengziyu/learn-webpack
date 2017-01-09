@@ -5,7 +5,8 @@
 * demo集合：https://github.com/ruanyf/webpack-demos
 
 ### :fire: :blush: webpack最新推荐 :fire:
-- [使用webpack的提示和技巧【译】](./webpack-trick.md)
+- [【译】使用webpack的提示和技巧](./webpack-trick.md)
+- [【译】Webpack解惑](https://zhuanlan.zhihu.com/p/24744677)
 
 ### 初级教程：
 - [Webpack 入门指迷](http://segmentfault.com/a/1190000002551952)
