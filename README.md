@@ -3,6 +3,7 @@
 * 官方文档：http://webpack.github.io/docs/
 * 中文文档：http://webpackdoc.com/
 * demo集合：https://github.com/ruanyf/webpack-demos
+* webpack交流QQ群：564362126（有问题可以在群里问哈~）
 
 ### :fire: :blush: webpack最新推荐 :fire:
 - [【译】使用webpack的提示和技巧](./webpack-trick.md)
