@@ -1,0 +1,8 @@
+h1{
+  color: #FF0;
+}
+.pic{
+  width: 150px;
+  height: 150px;
+  background: url('./pic.png') no-repeat;
+}
