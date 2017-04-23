@@ -1,4 +1,5 @@
 const path = require('path');
+const webpack = require('webpack');
 const ExtractTextPlugin = require('extract-text-webpack-plugin'); //link方式引入样式
 const BrowserSyncPlugin = require('browser-sync-webpack-plugin');
 
@@ -29,16 +30,26 @@ module.exports = {
   plugins: [
     //会把css和sass打包到style.css文件里
     new ExtractTextPlugin('style.css'),
+    //如果你想设置更多，可以这样写：
+    //new ExtractTextPlugin({
+    //  filename: 'style.css'
+    //})
+
+    // 自动刷新插件
     new BrowserSyncPlugin({
       // browse to http://localhost:3000/ during development,
       // ./public directory is being served
       host: 'localhost',
       port: 3000,
       server: { baseDir: ['./'] }
-    })
-    //如果你想设置更多，可以这样写：
-    //new ExtractTextPlugin({
-    //  filename: 'style.css'
-    //})
+    }),
+    // 压缩插件 自带
+    new webpack.optimize.UglifyJsPlugin({
+      compress: {
+        warnings: false,
+        drop_console: false,
+      }
+    }),
+
   ]
 }

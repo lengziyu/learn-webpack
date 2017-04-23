@@ -3,7 +3,7 @@
 * 官方文档：http://webpack.github.io/docs/
 * 中文文档：http://webpackdoc.com/
 * demo集合：https://github.com/ruanyf/webpack-demos
-* [webpack2 资源集合](./webpack2.md)
+* [webpack2 资源集合](./webpack2/README.md)
 * webpack交流QQ群：564362126（有问题可以在群里问哈~）
 
 
