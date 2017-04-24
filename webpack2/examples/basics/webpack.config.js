@@ -18,7 +18,7 @@ module.exports = {
         test: /\.css|\.scss$/,
         use: ExtractTextPlugin.extract({
           fallback: 'style-loader',
-          use: ['css-loader', 'sass-loader'],
+          use: ['css-loader', 'sass-loader', 'resolve-url-loader'],
         })
       },
       {
@@ -29,7 +29,7 @@ module.exports = {
   },
   plugins: [
     //会把css和sass打包到style.css文件里
-    new ExtractTextPlugin('style.css'),
+    new ExtractTextPlugin('css/style.css'),
     //如果你想设置更多，可以这样写：
     //new ExtractTextPlugin({
     //  filename: 'style.css'
